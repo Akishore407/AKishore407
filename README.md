@@ -24,8 +24,7 @@
 ## 🛠 Tech Stack  
 - *Languages*: Python, Java, SQL  
 - *Data & ML*: PySpark, Pandas, NumPy, Scikit-learn, TensorFlow, NLP  
-- *Data Engineering Tools*: Apache Kafka, Apache Airflow, Snowflake  
-- *Cloud*: AWS, GCP  
+- *Data Engineering Tools*: Apache Kafka, Apache Airflow, Snowflake   
 - *Databases*: PostgreSQL, MySQL, MongoDB  
 - *Tools*: Git, Docker, VS Code, Linux  
 
