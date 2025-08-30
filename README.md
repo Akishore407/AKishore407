@@ -1,43 +1,37 @@
-👋 About Me
+Hi there, I'm Kishore 👋
 
-I’m Kishore, a pre-final year Computer Science student passionate about Data Engineering and AI.
-I enjoy building real-time data pipelines and exploring AI/ML-driven applications.
-Curiosity and consistency drive my learning journey.
+🎓 Pre-final Year CSE Undergraduate | Class of 2026
+🚀 Passionate about Data Engineering, AI/ML, and Cloud Technologies
+💡 Exploring the intersection of Big Data, Real-time Analytics, and Intelligent Systems
 
-🔭 What I’m Working On
+🔭 What I'm Working On
 
-Strengthening DSA + SQL problem-solving skills
+Self-Healing Data Pipeline – Automated anomaly detection & recovery using Airflow, PySpark, Snowflake, Causal AI
 
-Learning advanced Cloud + Big Data tools
+Sentiment Analysis Pipeline – Real-time text analytics with Airflow, NLP, PostgreSQL
+
+DSA + SQL Mastery – Strengthening fundamentals through consistent practice
+
+Cloud + Big Data Tools – Hands-on with Kafka, AWS, GCP for scalable systems
 
 🏆 Achievements & Certifications
 
-✅ Completed Big Data Computing (NPTEL)
+✅ Big Data Computing (NPTEL)
 
-✅ Completed Introduction to Networking (CCNA)
+✅ Introduction to Networking (CCNA)
 
-🚀 Built Self-Healing Data Pipeline (Airflow + PySpark + Snowflake + Causal AI)
+🏅 Completed multiple projects in AI/ML & Data Engineering (Fraud Detection, Food Supply Chain Optimization, Fire Spread Simulation)
 
-🚀 Built Sentiment Analysis Data Pipeline (Airflow + NLP + Real-time Processing)
+🛠 Tech Stack
 
-⚙️ Tech Stack
+Languages: Python, Java, SQL
 
-Languages:
-Python · Java · SQL
+Data & ML: PySpark, Pandas, NumPy, Scikit-learn, TensorFlow, NLP
 
-Data & ML:
-PySpark · Pandas · NumPy · Scikit-learn · TensorFlow · NLP
+Data Engineering Tools: Apache Kafka, Apache Airflow, Snowflake
 
-Tools & Platforms:
-Kafka · Airflow · Snowflake · AWS · GCP · PostgreSQL · MongoDB
+Cloud: AWS, GCP
 
-Others:
-Git · VS Code
+Databases: PostgreSQL, MySQL, MongoDB
 
-🎯 Future Plans
-
-Master Data Engineering & Cloud Platforms
-
-Contribute to open-source data/AI projects
-
-Build scalable solutions for real-world impact
+Tools: Git, Docker, VS Code, Linux
