@@ -12,20 +12,27 @@ Learning advanced Cloud + Big Data tools
 
 🏆 Achievements & Certifications
 
-Completed Big Data Computing (NPTEL)
+✅ Completed Big Data Computing (NPTEL)
 
-Completed Introduction to Networking (CCNA)
+✅ Completed Introduction to Networking (CCNA)
 
-Built Self-Healing Data Pipeline (Airflow + PySpark + Snowflake + Causal AI)
+🚀 Built Self-Healing Data Pipeline (Airflow + PySpark + Snowflake + Causal AI)
 
-Built Sentiment Analysis Data Pipeline (Airflow + NLP + Real-time Processing)
+🚀 Built Sentiment Analysis Data Pipeline (Airflow + NLP + Real-time Processing)
 
 ⚙️ Tech Stack
 
-Languages: Python, Java, SQL
-Data & ML: PySpark, Pandas, NumPy, Scikit-learn, TensorFlow, NLP
-Tools & Platforms: Kafka, Airflow, Snowflake, AWS, GCP, PostgreSQL, MongoDB
-Others: Git, VS Code
+Languages:
+Python · Java · SQL
+
+Data & ML:
+PySpark · Pandas · NumPy · Scikit-learn · TensorFlow · NLP
+
+Tools & Platforms:
+Kafka · Airflow · Snowflake · AWS · GCP · PostgreSQL · MongoDB
+
+Others:
+Git · VS Code
 
 🎯 Future Plans
 
